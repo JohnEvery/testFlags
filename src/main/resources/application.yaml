@@ -1,0 +1,8 @@
+internal:
+  country:
+    url: https://restcountries.eu/rest/v2/all
+  flags:
+    url: https://img.geonames.org/flags/x/
+  base:
+    dir: src/main/resources/countries
+
